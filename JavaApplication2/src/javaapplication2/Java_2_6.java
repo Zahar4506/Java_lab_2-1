@@ -1,6 +1,4 @@
-/*
- минимум 4-х чисел
- */
+
 package javaapplication2;
 
 import java.io.BufferedReader;
@@ -10,8 +8,7 @@ import java.io.InputStreamReader;
 import java.io.Reader;
 
 /**
- *
- * @author Zaharov Alex
+ *  Zaharov Alex минимум 4-х чисел
  */
 public class Java_2_6 {
 
