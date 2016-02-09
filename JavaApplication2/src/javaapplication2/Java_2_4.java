@@ -42,7 +42,7 @@ public class Java_2_4 {
 
         minimum(m, n);
     }
-
+//функция нахождения минимума чисел 
     public static void minimum(int m, int n) {
         if (m < n) {
             System.out.println(m+" - минимум");

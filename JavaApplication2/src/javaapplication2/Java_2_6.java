@@ -51,7 +51,7 @@ public class Java_2_6 {
 
         System.out.println("Минимальное = " + min(min(m, n), min(b, v)));
     }
-
+//функция нахождения минимума function minimum
     public static int min(int x, int y) {
         if (x <= y) {
             return x;
